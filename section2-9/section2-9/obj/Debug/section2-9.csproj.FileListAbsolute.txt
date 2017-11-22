@@ -1,0 +1,7 @@
+C:\Users\colin\source\repos\section2-9\section2-9\bin\Debug\section2-9.exe.config
+C:\Users\colin\source\repos\section2-9\section2-9\bin\Debug\section2-9.exe
+C:\Users\colin\source\repos\section2-9\section2-9\bin\Debug\section2-9.pdb
+C:\Users\colin\source\repos\section2-9\section2-9\obj\Debug\section2-9.csprojResolveAssemblyReference.cache
+C:\Users\colin\source\repos\section2-9\section2-9\obj\Debug\section2-9.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\section2-9\section2-9\obj\Debug\section2-9.exe
+C:\Users\colin\source\repos\section2-9\section2-9\obj\Debug\section2-9.pdb
