@@ -23,7 +23,7 @@ namespace section4_exercise
         public object Pop()
         {
 
-            object obj = stack[stack.Count - 1];
+            
 
             if (stack.Count < 1)
             {
@@ -32,20 +32,22 @@ namespace section4_exercise
             }
             else
             {
-                
+                object obj = stack[stack.Count - 1];
                 stack.RemoveAt(stack.Count - 1);
-                
-                
-
+                return obj;
             }
 
-            return obj;
+            
+            
 
         }
 
-        void Clear()
+        public void Clear()
         {
-            
+            for (var i = 0; i < stack.Count; i++)
+            {
+                stack.RemoveAt(i);
+            }
         }
         
     }

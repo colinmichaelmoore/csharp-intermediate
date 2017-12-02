@@ -14,7 +14,9 @@ namespace section4_exercise
             stack.Push(1);
             stack.Push(2);
             stack.Push(3);
-
+            
+            stack.Clear();
+            
             Console.WriteLine(stack.Pop());
             Console.WriteLine(stack.Pop());
             Console.WriteLine(stack.Pop());
@@ -24,12 +26,12 @@ namespace section4_exercise
             stack.Push("String");
             stack.Push("String2");
             stack.Push("String3");
-
+            
             Console.WriteLine(stack.Pop());
             Console.WriteLine(stack.Pop());
             Console.WriteLine(stack.Pop());
 
-            stack.Push(null);
+            //stack.Push(null);
             stack.Pop();
         }
     }
